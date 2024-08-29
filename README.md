@@ -5,7 +5,7 @@ A web application built with Django designed to help users record, organize, and
 
 📖 Project Overview
 
-Learning Log enables users to register and log in, after which they can create custom learning topics and add, edit, or delete entries under each topic. Users can systematically organize their study notes, track progress, and review key points at any time.
+This is a web application built using the Python Django framework. Learning Log enables users to register and log in, after which they can create custom learning topics and add, edit, or delete entries under each topic. Users can systematically organize their study notes, track progress, and review key points at any time.
 
 🛠 Features
 
