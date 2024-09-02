@@ -2,3 +2,7 @@ build-essential
 python3-dev
 libatlas-base-dev
 gfortran
+libpq-dev
+python3-dev
+gcc
+liblapack-dev
