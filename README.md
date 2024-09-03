@@ -39,8 +39,3 @@ We warmly invite all Python/Django enthusiasts, students, and tech aficionados t
 
 We extend our heartfelt thanks to every community member who follows and supports us. Let’s collaborate to make Learning Log even better!
 
-📜 License
-
-This project is licensed under the MIT License. For detailed information, please refer to the LICENSE file.
-
-If you have any questions or suggestions, feel free to raise them on the Issue page at any time. We will respond as soon as possible. We look forward to working with you to make Learning Log even better!
